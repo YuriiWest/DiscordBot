@@ -12,4 +12,4 @@ async def on_message(message):
                 await message.channel.send("щас бы коеску бавити")
 
 
-client.run('ODE3MzkyNzA2Nzk5MTQwOTE1.YEI2Rw.CT3-r7vMg0rQw-FJ-_zC_os6xhs')
+client.run('')
